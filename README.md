@@ -1,0 +1,1 @@
+This project utilizes machine learning as a tool to combat climate change. It further utilizes cutting-edge technology of predictive modelling such as use of Artificial Neural Networks to help in prediciting of climatic conditions.
